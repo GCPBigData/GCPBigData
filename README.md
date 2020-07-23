@@ -2,10 +2,6 @@
 
 Jose R F Junior - web2ajax@gmail.com
 
-[![HitCount](http://hits.dwyl.com/GCPBigData/GCPBigData.svg)](http://hits.dwyl.com/GCPBigData/GCPBigData)
-
-
-
 <!--
 **GCPBigData/GCPBigData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
