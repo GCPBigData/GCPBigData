@@ -1,4 +1,8 @@
-### Hi there 👋
+### Jose R F Junior 👋
+
+Jose R F Junior - web2ajax@gmail.com
+
+
 
 <!--
 **GCPBigData/GCPBigData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
