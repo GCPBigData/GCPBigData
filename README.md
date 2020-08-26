@@ -3,7 +3,7 @@
 Jose R F Junior - web2ajax@gmail.com
 
 
-**GCPBigData/GCPBigData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GCPBigData/GCPBigData** 
 
 Básico: Complexidade: (https://en.wikipedia.org/wiki/Time_complexity)
 How Quantum Computers Break Encryption | Shor's Algorithm Explained (https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
